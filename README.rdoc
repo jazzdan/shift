@@ -1,0 +1,6 @@
+= shift
+
+Describe your project here
+
+:include:shift.rdoc
+
