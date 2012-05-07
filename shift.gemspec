@@ -3,11 +3,11 @@ require File.join([File.dirname(__FILE__),'lib','shift_version.rb'])
 spec = Gem::Specification.new do |s| 
   s.name = 'shift'
   s.version = Shift::VERSION
-  s.author = 'Your Name Here'
-  s.email = 'your@email.address.com'
-  s.homepage = 'http://your.website.com'
+  s.author = 'Dan Miller'
+  s.email = 'dan@danielsmiller.com'
+  s.homepage = 'http://danielsmiller.com'
   s.platform = Gem::Platform::RUBY
-  s.summary = 'A description of your project'
+  s.summary = 'Shift data from one database to another.'
 # Add your other files here if you make them
   s.files = %w(
 bin/shift
